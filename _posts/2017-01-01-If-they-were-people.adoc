@@ -1,0 +1,24 @@
+= If they were people
+// :hp-image: /covers/cover.png
+:published_at: 2017-01-01
+ :hp-tags: Programming, Languages 
+// :hp-alt-title: My English Title
+
+How would they look like if the programming languages were humans? This is how I feel about them after working with these languages for sometime.
+
+## Java
+A middle aged wise man with lots of experience. Very strategical and well organized. Has earned trust and reputation over the years. Capable of working with any kind of person independently the environment. His works are cleverly structured and he always follows best practices. He  creates the conventions and others follow them.
+
+## JavaScript
+A young man full of energy. Well established on its own terrains yet sailing on stranger tides looking for new endeavors and new lands to conquer.  His quickness is his strength. He holds the momentum to be a giant but the journey has  just begun.
+
+## Ruby
+A sexy young lady with a good personality. Well mannered and polite. She enchant others with her charisma.  Never stops surprising others by her beauty.  She loves the traditions and conventions. Her works are very clear and simple, yet powerful. Her works need no explanations or comments, they themselves are the explanations.
+
+## Python
+A teenage boy filled with curiosity. Running here and there poking his finger everywhere. Always try to do things in short and he is very easy to control. But hold the gravity of being a strong and powerful man one day. Has a lot more to go, a  lot more to see.
+
+## C
+A very old man with immense wisdom. Very hard to deal with but on his works all the others do depend. Without his deeds this world would not be this much beautiful. But he  still can put you down easily if you messed him up.
+
+Do you know ins and outs of any other language? Please comment with a nice score on how it would be like if it were a human.
