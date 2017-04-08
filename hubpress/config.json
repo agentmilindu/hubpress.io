@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://agentmilindu.github.io/hubpress.io",
+    "hubpress": "http://agentmilindu.com/hubpress.io",
+    "theme": "//agentmilindu.github.io/hubpress.io/themes/casper",
+    "images": "https://agentmilindu.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
